@@ -1,0 +1,13 @@
+
+ body{
+    background-color:blue;
+}
+#id_gender,#id_Material{
+list-style-type: none;
+display: inline-flex;
+}
+
+
+#id_gender > li{
+ padding-left: 10px;
+}
